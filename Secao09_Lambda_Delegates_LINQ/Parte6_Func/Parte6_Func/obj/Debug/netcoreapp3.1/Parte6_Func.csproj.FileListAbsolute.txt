@@ -1,0 +1,11 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\bin\Debug\netcoreapp3.1\Parte6_Func.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\bin\Debug\netcoreapp3.1\Parte6_Func.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\bin\Debug\netcoreapp3.1\Parte6_Func.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\bin\Debug\netcoreapp3.1\Parte6_Func.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\bin\Debug\netcoreapp3.1\Parte6_Func.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\bin\Debug\netcoreapp3.1\Parte6_Func.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\obj\Debug\netcoreapp3.1\Parte6_Func.csprojAssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\obj\Debug\netcoreapp3.1\Parte6_Func.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\obj\Debug\netcoreapp3.1\Parte6_Func.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\obj\Debug\netcoreapp3.1\Parte6_Func.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte6_Func\Parte6_Func\obj\Debug\netcoreapp3.1\Parte6_Func.pdb

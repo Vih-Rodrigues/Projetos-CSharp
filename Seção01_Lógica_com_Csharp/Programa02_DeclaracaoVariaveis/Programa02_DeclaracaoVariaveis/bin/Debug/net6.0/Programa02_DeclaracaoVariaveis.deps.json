@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Programa02_DeclaracaoVariaveis/1.0.0": {
+        "runtime": {
+          "Programa02_DeclaracaoVariaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa02_DeclaracaoVariaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

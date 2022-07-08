@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\bin\Debug\net6.0\Prog03_VetorSimples.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\bin\Debug\net6.0\Prog03_VetorSimples.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\bin\Debug\net6.0\Prog03_VetorSimples.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\bin\Debug\net6.0\Prog03_VetorSimples.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\bin\Debug\net6.0\ref\Prog03_VetorSimples.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\bin\Debug\net6.0\Prog03_VetorSimples.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\ref\Prog03_VetorSimples.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog03_VetorSimples\Prog03_VetorSimples\obj\Debug\net6.0\Prog03_VetorSimples.genruntimeconfig.cache

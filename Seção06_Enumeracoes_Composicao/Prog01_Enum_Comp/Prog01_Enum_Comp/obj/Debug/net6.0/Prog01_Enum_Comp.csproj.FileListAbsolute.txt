@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\bin\Debug\net6.0\Prog01_Enum_Comp.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\bin\Debug\net6.0\Prog01_Enum_Comp.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\bin\Debug\net6.0\Prog01_Enum_Comp.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\bin\Debug\net6.0\Prog01_Enum_Comp.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\bin\Debug\net6.0\ref\Prog01_Enum_Comp.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\bin\Debug\net6.0\Prog01_Enum_Comp.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\ref\Prog01_Enum_Comp.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\Prog01_Enum_Comp\Prog01_Enum_Comp\obj\Debug\net6.0\Prog01_Enum_Comp.genruntimeconfig.cache

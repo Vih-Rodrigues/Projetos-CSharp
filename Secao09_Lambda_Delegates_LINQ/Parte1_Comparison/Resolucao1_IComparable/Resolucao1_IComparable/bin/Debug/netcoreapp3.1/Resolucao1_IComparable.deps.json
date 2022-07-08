@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Resolucao1_IComparable/1.0.0": {
+        "runtime": {
+          "Resolucao1_IComparable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resolucao1_IComparable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

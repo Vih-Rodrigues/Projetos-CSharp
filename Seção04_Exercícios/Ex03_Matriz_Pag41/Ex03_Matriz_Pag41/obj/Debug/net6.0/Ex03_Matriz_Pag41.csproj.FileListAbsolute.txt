@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\bin\Debug\net6.0\Ex03_Matriz_Pag41.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\bin\Debug\net6.0\Ex03_Matriz_Pag41.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\bin\Debug\net6.0\Ex03_Matriz_Pag41.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\bin\Debug\net6.0\Ex03_Matriz_Pag41.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\bin\Debug\net6.0\ref\Ex03_Matriz_Pag41.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\bin\Debug\net6.0\Ex03_Matriz_Pag41.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\ref\Ex03_Matriz_Pag41.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex03_Matriz_Pag41\Ex03_Matriz_Pag41\obj\Debug\net6.0\Ex03_Matriz_Pag41.genruntimeconfig.cache

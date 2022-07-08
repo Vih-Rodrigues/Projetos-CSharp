@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prog05_ModificadorParams/1.0.0": {
+        "runtime": {
+          "Prog05_ModificadorParams.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prog05_ModificadorParams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

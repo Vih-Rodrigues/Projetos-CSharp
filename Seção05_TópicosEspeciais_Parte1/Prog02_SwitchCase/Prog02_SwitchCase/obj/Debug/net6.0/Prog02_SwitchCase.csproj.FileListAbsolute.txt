@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\bin\Debug\net6.0\Prog02_SwitchCase.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\bin\Debug\net6.0\Prog02_SwitchCase.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\bin\Debug\net6.0\Prog02_SwitchCase.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\bin\Debug\net6.0\Prog02_SwitchCase.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\bin\Debug\net6.0\ref\Prog02_SwitchCase.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\bin\Debug\net6.0\Prog02_SwitchCase.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\ref\Prog02_SwitchCase.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog02_SwitchCase\Prog02_SwitchCase\obj\Debug\net6.0\Prog02_SwitchCase.genruntimeconfig.cache

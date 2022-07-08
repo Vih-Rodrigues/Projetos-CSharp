@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\bin\Debug\net6.0\Ex02_secao04_Pag17.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\bin\Debug\net6.0\Ex02_secao04_Pag17.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\bin\Debug\net6.0\Ex02_secao04_Pag17.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\bin\Debug\net6.0\Ex02_secao04_Pag17.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\bin\Debug\net6.0\ref\Ex02_secao04_Pag17.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\bin\Debug\net6.0\Ex02_secao04_Pag17.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\ref\Ex02_secao04_Pag17.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_secao04_Pag17\Ex02_secao04_Pag17\obj\Debug\net6.0\Ex02_secao04_Pag17.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\bin\Debug\net6.0\Prog01_Struct.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\bin\Debug\net6.0\Prog01_Struct.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\bin\Debug\net6.0\Prog01_Struct.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\bin\Debug\net6.0\Prog01_Struct.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\bin\Debug\net6.0\ref\Prog01_Struct.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\bin\Debug\net6.0\Prog01_Struct.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\ref\Prog01_Struct.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog01_Struct\Prog01_Struct\obj\Debug\net6.0\Prog01_Struct.genruntimeconfig.cache

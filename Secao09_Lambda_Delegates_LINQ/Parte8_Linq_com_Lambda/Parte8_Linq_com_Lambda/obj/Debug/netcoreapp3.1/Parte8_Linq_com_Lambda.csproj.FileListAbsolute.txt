@@ -1,0 +1,11 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\bin\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\bin\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\bin\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\bin\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\bin\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\bin\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\obj\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.csprojAssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\obj\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\obj\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\obj\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte8_Linq_com_Lambda\Parte8_Linq_com_Lambda\obj\Debug\netcoreapp3.1\Parte8_Linq_com_Lambda.pdb

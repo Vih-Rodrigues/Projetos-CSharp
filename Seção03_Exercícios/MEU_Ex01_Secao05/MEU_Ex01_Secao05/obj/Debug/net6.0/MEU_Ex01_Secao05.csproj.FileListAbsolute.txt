@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\bin\Debug\net6.0\MEU_Ex01_Secao05.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\bin\Debug\net6.0\MEU_Ex01_Secao05.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\bin\Debug\net6.0\MEU_Ex01_Secao05.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\bin\Debug\net6.0\MEU_Ex01_Secao05.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\bin\Debug\net6.0\ref\MEU_Ex01_Secao05.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\bin\Debug\net6.0\MEU_Ex01_Secao05.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\ref\MEU_Ex01_Secao05.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_Exercícios\MEU_Ex01_Secao05\MEU_Ex01_Secao05\obj\Debug\net6.0\MEU_Ex01_Secao05.genruntimeconfig.cache

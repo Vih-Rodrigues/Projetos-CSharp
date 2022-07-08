@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\bin\Debug\net6.0\Ex02_Lista_Pag35.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\bin\Debug\net6.0\Ex02_Lista_Pag35.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\bin\Debug\net6.0\Ex02_Lista_Pag35.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\bin\Debug\net6.0\Ex02_Lista_Pag35.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\bin\Debug\net6.0\ref\Ex02_Lista_Pag35.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\bin\Debug\net6.0\Ex02_Lista_Pag35.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\ref\Ex02_Lista_Pag35.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex02_Lista_Pag35\Ex02_Lista_Pag35\obj\Debug\net6.0\Ex02_Lista_Pag35.genruntimeconfig.cache

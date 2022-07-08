@@ -1,0 +1,10 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\bin\Debug\netcoreapp3.1\Parte3_MulticastDelegates.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\bin\Debug\netcoreapp3.1\Parte3_MulticastDelegates.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\bin\Debug\netcoreapp3.1\Parte3_MulticastDelegates.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\bin\Debug\netcoreapp3.1\Parte3_MulticastDelegates.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\bin\Debug\netcoreapp3.1\Parte3_MulticastDelegates.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\bin\Debug\netcoreapp3.1\Parte3_MulticastDelegates.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\obj\Debug\netcoreapp3.1\Parte3_MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\obj\Debug\netcoreapp3.1\Parte3_MulticastDelegates.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\obj\Debug\netcoreapp3.1\Parte3_MulticastDelegates.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte3_MulticastDelegates\Parte3_MulticastDelegates\obj\Debug\netcoreapp3.1\Parte3_MulticastDelegates.pdb

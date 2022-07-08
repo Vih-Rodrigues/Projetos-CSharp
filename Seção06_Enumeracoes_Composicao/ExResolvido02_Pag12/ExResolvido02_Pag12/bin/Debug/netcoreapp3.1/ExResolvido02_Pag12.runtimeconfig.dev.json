@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vitoria.mercado\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vitoria.mercado\\.nuget\\packages"
+    ]
+  }
+}

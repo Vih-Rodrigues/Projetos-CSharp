@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vitoria.mercado\\Documents\\Udemy\\C#_COMPLETO_POO+Projetos\\Seção05_ConstrutorThisSobrecargaEncapsulamento\\Prog07_AutoProperties\\Prog07_AutoProperties\\Prog07_AutoProperties.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vitoria.mercado\\Documents\\Udemy\\C#_COMPLETO_POO+Projetos\\Seção05_ConstrutorThisSobrecargaEncapsulamento\\Prog07_AutoProperties\\Prog07_AutoProperties\\Prog07_AutoProperties.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitoria.mercado\\Documents\\Udemy\\C#_COMPLETO_POO+Projetos\\Seção05_ConstrutorThisSobrecargaEncapsulamento\\Prog07_AutoProperties\\Prog07_AutoProperties\\Prog07_AutoProperties.csproj",
+        "projectName": "Prog07_AutoProperties",
+        "projectPath": "C:\\Users\\vitoria.mercado\\Documents\\Udemy\\C#_COMPLETO_POO+Projetos\\Seção05_ConstrutorThisSobrecargaEncapsulamento\\Prog07_AutoProperties\\Prog07_AutoProperties\\Prog07_AutoProperties.csproj",
+        "packagesPath": "C:\\Users\\vitoria.mercado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitoria.mercado\\Documents\\Udemy\\C#_COMPLETO_POO+Projetos\\Seção05_ConstrutorThisSobrecargaEncapsulamento\\Prog07_AutoProperties\\Prog07_AutoProperties\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vitoria.mercado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

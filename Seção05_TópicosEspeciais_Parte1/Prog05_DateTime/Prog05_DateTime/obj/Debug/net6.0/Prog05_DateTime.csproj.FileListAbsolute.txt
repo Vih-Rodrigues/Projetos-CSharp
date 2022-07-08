@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\bin\Debug\net6.0\Prog05_DateTime.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\bin\Debug\net6.0\Prog05_DateTime.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\bin\Debug\net6.0\Prog05_DateTime.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\bin\Debug\net6.0\Prog05_DateTime.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\bin\Debug\net6.0\ref\Prog05_DateTime.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\bin\Debug\net6.0\Prog05_DateTime.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\ref\Prog05_DateTime.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog05_DateTime\Prog05_DateTime\obj\Debug\net6.0\Prog05_DateTime.genruntimeconfig.cache

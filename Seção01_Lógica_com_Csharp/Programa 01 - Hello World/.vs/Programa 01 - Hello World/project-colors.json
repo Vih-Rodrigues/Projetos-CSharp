@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f684fec-11d0-416c-87c5-db1f0ffa1a3d": {
+      "ProjectGuid": "4f684fec-11d0-416c-87c5-db1f0ffa1a3d",
+      "DisplayName": "Programa 01 - Hello World",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

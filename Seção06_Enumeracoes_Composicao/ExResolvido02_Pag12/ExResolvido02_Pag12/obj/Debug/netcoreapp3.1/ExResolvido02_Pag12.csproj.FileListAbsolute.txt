@@ -1,0 +1,11 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\bin\Debug\netcoreapp3.1\ExResolvido02_Pag12.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\bin\Debug\netcoreapp3.1\ExResolvido02_Pag12.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\bin\Debug\netcoreapp3.1\ExResolvido02_Pag12.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\bin\Debug\netcoreapp3.1\ExResolvido02_Pag12.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\bin\Debug\netcoreapp3.1\ExResolvido02_Pag12.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\bin\Debug\netcoreapp3.1\ExResolvido02_Pag12.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\obj\Debug\netcoreapp3.1\ExResolvido02_Pag12.csprojAssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\obj\Debug\netcoreapp3.1\ExResolvido02_Pag12.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\obj\Debug\netcoreapp3.1\ExResolvido02_Pag12.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\obj\Debug\netcoreapp3.1\ExResolvido02_Pag12.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido02_Pag12\ExResolvido02_Pag12\obj\Debug\netcoreapp3.1\ExResolvido02_Pag12.pdb

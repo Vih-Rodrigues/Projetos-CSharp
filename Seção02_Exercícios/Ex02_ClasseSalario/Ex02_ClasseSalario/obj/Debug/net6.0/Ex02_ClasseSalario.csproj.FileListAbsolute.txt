@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\bin\Debug\net6.0\Ex02_ClasseSalario.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\bin\Debug\net6.0\Ex02_ClasseSalario.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\bin\Debug\net6.0\Ex02_ClasseSalario.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\bin\Debug\net6.0\Ex02_ClasseSalario.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\bin\Debug\net6.0\ref\Ex02_ClasseSalario.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\bin\Debug\net6.0\Ex02_ClasseSalario.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\ref\Ex02_ClasseSalario.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex02_ClasseSalario\Ex02_ClasseSalario\obj\Debug\net6.0\Ex02_ClasseSalario.genruntimeconfig.cache

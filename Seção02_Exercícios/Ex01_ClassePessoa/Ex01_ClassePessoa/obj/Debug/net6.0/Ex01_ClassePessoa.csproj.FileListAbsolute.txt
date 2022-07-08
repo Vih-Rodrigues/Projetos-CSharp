@@ -1,0 +1,14 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\bin\Debug\net6.0\Ex01_ClassePessoa.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\bin\Debug\net6.0\Ex01_ClassePessoa.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\bin\Debug\net6.0\Ex01_ClassePessoa.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\bin\Debug\net6.0\Ex01_ClassePessoa.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\bin\Debug\net6.0\ref\Ex01_ClassePessoa.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\bin\Debug\net6.0\Ex01_ClassePessoa.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\ref\Ex01_ClassePessoa.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_Exercícios\Ex01_ClassePessoa\Ex01_ClassePessoa\obj\Debug\net6.0\Ex01_ClassePessoa.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\bin\Debug\netcoreapp3.1\Parte4_Predicate.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\bin\Debug\netcoreapp3.1\Parte4_Predicate.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\bin\Debug\netcoreapp3.1\Parte4_Predicate.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\bin\Debug\netcoreapp3.1\Parte4_Predicate.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\bin\Debug\netcoreapp3.1\Parte4_Predicate.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\bin\Debug\netcoreapp3.1\Parte4_Predicate.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\obj\Debug\netcoreapp3.1\Parte4_Predicate.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\obj\Debug\netcoreapp3.1\Parte4_Predicate.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\obj\Debug\netcoreapp3.1\Parte4_Predicate.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte4_Predicate\Parte4_Predicate\obj\Debug\netcoreapp3.1\Parte4_Predicate.pdb

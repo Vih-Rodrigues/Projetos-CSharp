@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\bin\Debug\net6.0\Prog03_CondTernaria.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\bin\Debug\net6.0\Prog03_CondTernaria.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\bin\Debug\net6.0\Prog03_CondTernaria.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\bin\Debug\net6.0\Prog03_CondTernaria.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\bin\Debug\net6.0\ref\Prog03_CondTernaria.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\bin\Debug\net6.0\Prog03_CondTernaria.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\ref\Prog03_CondTernaria.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog03_CondTernaria\Prog03_CondTernaria\obj\Debug\net6.0\Prog03_CondTernaria.genruntimeconfig.cache

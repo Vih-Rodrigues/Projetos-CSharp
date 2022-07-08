@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MEU_Ex01_Secao05/1.0.0": {
+        "runtime": {
+          "MEU_Ex01_Secao05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MEU_Ex01_Secao05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

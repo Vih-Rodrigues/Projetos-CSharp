@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prog04_MaisFuncoesString/1.0.0": {
+        "runtime": {
+          "Prog04_MaisFuncoesString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prog04_MaisFuncoesString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

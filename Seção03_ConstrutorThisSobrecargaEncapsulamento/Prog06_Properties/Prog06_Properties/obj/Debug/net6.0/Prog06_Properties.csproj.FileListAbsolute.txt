@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\bin\Debug\net6.0\Prog06_Properties.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\bin\Debug\net6.0\Prog06_Properties.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\bin\Debug\net6.0\Prog06_Properties.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\bin\Debug\net6.0\Prog06_Properties.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\bin\Debug\net6.0\ref\Prog06_Properties.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\bin\Debug\net6.0\Prog06_Properties.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\ref\Prog06_Properties.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.genruntimeconfig.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog06_Properties\Prog06_Properties\obj\Debug\net6.0\Prog06_Properties.csproj.AssemblyReference.cache

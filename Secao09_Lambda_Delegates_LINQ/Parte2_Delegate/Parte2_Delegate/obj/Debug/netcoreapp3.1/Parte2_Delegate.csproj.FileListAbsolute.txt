@@ -1,0 +1,11 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\bin\Debug\netcoreapp3.1\Parte2_Delegate.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\bin\Debug\netcoreapp3.1\Parte2_Delegate.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\bin\Debug\netcoreapp3.1\Parte2_Delegate.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\bin\Debug\netcoreapp3.1\Parte2_Delegate.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\bin\Debug\netcoreapp3.1\Parte2_Delegate.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\bin\Debug\netcoreapp3.1\Parte2_Delegate.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\obj\Debug\netcoreapp3.1\Parte2_Delegate.csprojAssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\obj\Debug\netcoreapp3.1\Parte2_Delegate.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\obj\Debug\netcoreapp3.1\Parte2_Delegate.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\obj\Debug\netcoreapp3.1\Parte2_Delegate.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte2_Delegate\Parte2_Delegate\obj\Debug\netcoreapp3.1\Parte2_Delegate.pdb

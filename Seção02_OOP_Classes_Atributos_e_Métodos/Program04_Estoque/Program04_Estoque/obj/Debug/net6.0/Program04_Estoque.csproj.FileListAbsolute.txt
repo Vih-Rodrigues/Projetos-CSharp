@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\bin\Debug\net6.0\Program04_Estoque.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\bin\Debug\net6.0\Program04_Estoque.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\bin\Debug\net6.0\Program04_Estoque.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\bin\Debug\net6.0\Program04_Estoque.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\bin\Debug\net6.0\ref\Program04_Estoque.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\bin\Debug\net6.0\Program04_Estoque.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\ref\Program04_Estoque.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção04_OOP_Classes_Atributos_e_Métodos\Program04_Estoque\Program04_Estoque\obj\Debug\net6.0\Program04_Estoque.genruntimeconfig.cache

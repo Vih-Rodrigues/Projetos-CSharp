@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\bin\Debug\net6.0\Prog05_Get_Set.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\bin\Debug\net6.0\Prog05_Get_Set.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\bin\Debug\net6.0\Prog05_Get_Set.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\bin\Debug\net6.0\Prog05_Get_Set.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\bin\Debug\net6.0\ref\Prog05_Get_Set.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\bin\Debug\net6.0\Prog05_Get_Set.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\ref\Prog05_Get_Set.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção05_ConstrutorThisSobrecargaEncapsulamento\Prog05_Get_Set\Prog05_Get_Set\obj\Debug\net6.0\Prog05_Get_Set.genruntimeconfig.cache

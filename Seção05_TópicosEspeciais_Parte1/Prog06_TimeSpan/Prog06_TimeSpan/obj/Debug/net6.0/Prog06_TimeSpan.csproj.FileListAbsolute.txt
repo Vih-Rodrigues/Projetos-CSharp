@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\bin\Debug\net6.0\Prog06_TimeSpan.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\bin\Debug\net6.0\Prog06_TimeSpan.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\bin\Debug\net6.0\Prog06_TimeSpan.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\bin\Debug\net6.0\Prog06_TimeSpan.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\bin\Debug\net6.0\ref\Prog06_TimeSpan.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\bin\Debug\net6.0\Prog06_TimeSpan.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\ref\Prog06_TimeSpan.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog06_TimeSpan\Prog06_TimeSpan\obj\Debug\net6.0\Prog06_TimeSpan.genruntimeconfig.cache

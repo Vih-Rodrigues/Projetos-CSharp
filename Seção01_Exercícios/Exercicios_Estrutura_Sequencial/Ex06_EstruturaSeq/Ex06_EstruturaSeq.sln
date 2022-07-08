@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06_EstruturaSeq", "Ex06_EstruturaSeq\Ex06_EstruturaSeq.csproj", "{44BCA4BF-5A98-4CB0-A195-8DC3191E6452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BCA4BF-5A98-4CB0-A195-8DC3191E6452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BCA4BF-5A98-4CB0-A195-8DC3191E6452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BCA4BF-5A98-4CB0-A195-8DC3191E6452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BCA4BF-5A98-4CB0-A195-8DC3191E6452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE07DED8-CFFB-42C5-A9E7-3DC0B21DA1D5}
+	EndGlobalSection
+EndGlobal

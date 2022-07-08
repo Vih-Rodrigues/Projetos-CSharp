@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\bin\Debug\net6.0\Prog05_ModificadorParams.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\bin\Debug\net6.0\Prog05_ModificadorParams.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\bin\Debug\net6.0\Prog05_ModificadorParams.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\bin\Debug\net6.0\Prog05_ModificadorParams.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\bin\Debug\net6.0\ref\Prog05_ModificadorParams.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\bin\Debug\net6.0\Prog05_ModificadorParams.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\ref\Prog05_ModificadorParams.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog05_ModificadorParams\Prog05_ModificadorParams\obj\Debug\net6.0\Prog05_ModificadorParams.genruntimeconfig.cache

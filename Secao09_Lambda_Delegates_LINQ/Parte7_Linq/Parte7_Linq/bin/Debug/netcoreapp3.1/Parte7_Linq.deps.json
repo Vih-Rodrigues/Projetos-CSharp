@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Parte7_Linq/1.0.0": {
+        "runtime": {
+          "Parte7_Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parte7_Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

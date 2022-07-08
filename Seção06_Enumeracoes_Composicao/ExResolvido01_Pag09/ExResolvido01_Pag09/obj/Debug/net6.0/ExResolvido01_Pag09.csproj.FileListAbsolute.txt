@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\bin\Debug\net6.0\ExResolvido01_Pag09.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\bin\Debug\net6.0\ExResolvido01_Pag09.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\bin\Debug\net6.0\ExResolvido01_Pag09.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\bin\Debug\net6.0\ExResolvido01_Pag09.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\bin\Debug\net6.0\ref\ExResolvido01_Pag09.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\bin\Debug\net6.0\ExResolvido01_Pag09.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ref\ExResolvido01_Pag09.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção09_Enumeracoes_Composicao\ExResolvido01_Pag09\ExResolvido01_Pag09\obj\Debug\net6.0\ExResolvido01_Pag09.genruntimeconfig.cache

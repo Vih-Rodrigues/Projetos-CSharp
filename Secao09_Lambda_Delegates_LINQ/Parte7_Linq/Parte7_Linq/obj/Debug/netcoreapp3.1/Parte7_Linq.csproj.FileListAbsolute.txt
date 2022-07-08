@@ -1,0 +1,11 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\bin\Debug\netcoreapp3.1\Parte7_Linq.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\bin\Debug\netcoreapp3.1\Parte7_Linq.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\bin\Debug\netcoreapp3.1\Parte7_Linq.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\bin\Debug\netcoreapp3.1\Parte7_Linq.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\bin\Debug\netcoreapp3.1\Parte7_Linq.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\bin\Debug\netcoreapp3.1\Parte7_Linq.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\obj\Debug\netcoreapp3.1\Parte7_Linq.csprojAssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\obj\Debug\netcoreapp3.1\Parte7_Linq.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\obj\Debug\netcoreapp3.1\Parte7_Linq.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\obj\Debug\netcoreapp3.1\Parte7_Linq.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte7_Linq\Parte7_Linq\obj\Debug\netcoreapp3.1\Parte7_Linq.pdb

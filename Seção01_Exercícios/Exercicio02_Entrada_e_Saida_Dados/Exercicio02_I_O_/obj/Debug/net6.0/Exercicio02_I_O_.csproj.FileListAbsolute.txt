@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\bin\Debug\net6.0\Exercicio02_I_O_.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\bin\Debug\net6.0\Exercicio02_I_O_.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\bin\Debug\net6.0\Exercicio02_I_O_.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\bin\Debug\net6.0\Exercicio02_I_O_.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\bin\Debug\net6.0\ref\Exercicio02_I_O_.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\bin\Debug\net6.0\Exercicio02_I_O_.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\ref\Exercicio02_I_O_.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicios\Exercicio02_I_O_\Exercicio02_I_O_\obj\Debug\net6.0\Exercicio02_I_O_.genruntimeconfig.cache

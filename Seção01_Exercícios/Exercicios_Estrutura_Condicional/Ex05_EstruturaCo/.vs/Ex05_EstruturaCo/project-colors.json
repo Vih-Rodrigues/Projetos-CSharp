@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4da4b2b2-435a-43fb-af40-bc353401f4fc": {
+      "ProjectGuid": "4da4b2b2-435a-43fb-af40-bc353401f4fc",
+      "DisplayName": "Ex05_EstruturaCo",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

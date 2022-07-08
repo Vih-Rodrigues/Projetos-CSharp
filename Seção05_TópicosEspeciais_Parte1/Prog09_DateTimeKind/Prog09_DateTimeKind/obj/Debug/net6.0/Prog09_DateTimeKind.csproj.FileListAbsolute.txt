@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\bin\Debug\net6.0\Prog09_DateTimeKind.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\bin\Debug\net6.0\Prog09_DateTimeKind.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\bin\Debug\net6.0\Prog09_DateTimeKind.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\bin\Debug\net6.0\Prog09_DateTimeKind.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\bin\Debug\net6.0\ref\Prog09_DateTimeKind.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\bin\Debug\net6.0\Prog09_DateTimeKind.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\ref\Prog09_DateTimeKind.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog09_DateTimeKind\Prog09_DateTimeKind\obj\Debug\net6.0\Prog09_DateTimeKind.genruntimeconfig.cache

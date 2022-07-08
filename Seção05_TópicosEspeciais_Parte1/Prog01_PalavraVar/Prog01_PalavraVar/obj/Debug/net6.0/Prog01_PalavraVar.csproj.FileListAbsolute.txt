@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\bin\Debug\net6.0\Prog01_PalavraVar.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\bin\Debug\net6.0\Prog01_PalavraVar.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\bin\Debug\net6.0\Prog01_PalavraVar.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\bin\Debug\net6.0\Prog01_PalavraVar.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\bin\Debug\net6.0\ref\Prog01_PalavraVar.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\bin\Debug\net6.0\Prog01_PalavraVar.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\ref\Prog01_PalavraVar.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção07_TópicosEspeciais_Parte1\Prog01_PalavraVar\Prog01_PalavraVar\obj\Debug\net6.0\Prog01_PalavraVar.genruntimeconfig.cache

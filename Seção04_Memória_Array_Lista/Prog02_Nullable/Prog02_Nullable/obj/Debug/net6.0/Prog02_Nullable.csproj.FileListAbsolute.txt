@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\bin\Debug\net6.0\Prog02_Nullable.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\bin\Debug\net6.0\Prog02_Nullable.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\bin\Debug\net6.0\Prog02_Nullable.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\bin\Debug\net6.0\Prog02_Nullable.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\bin\Debug\net6.0\ref\Prog02_Nullable.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\bin\Debug\net6.0\Prog02_Nullable.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\ref\Prog02_Nullable.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog02_Nullable\Prog02_Nullable\obj\Debug\net6.0\Prog02_Nullable.genruntimeconfig.cache

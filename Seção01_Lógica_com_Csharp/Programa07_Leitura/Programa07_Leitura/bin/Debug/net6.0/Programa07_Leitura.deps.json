@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Programa07_Leitura/1.0.0": {
+        "runtime": {
+          "Programa07_Leitura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa07_Leitura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

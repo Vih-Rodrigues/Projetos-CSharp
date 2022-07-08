@@ -1,0 +1,11 @@
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\bin\Debug\netcoreapp3.1\Resolucao4_Lambda.exe
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\bin\Debug\netcoreapp3.1\Resolucao4_Lambda.deps.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\bin\Debug\netcoreapp3.1\Resolucao4_Lambda.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\bin\Debug\netcoreapp3.1\Resolucao4_Lambda.runtimeconfig.dev.json
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\bin\Debug\netcoreapp3.1\Resolucao4_Lambda.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\bin\Debug\netcoreapp3.1\Resolucao4_Lambda.pdb
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\obj\Debug\netcoreapp3.1\Resolucao4_Lambda.csprojAssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\obj\Debug\netcoreapp3.1\Resolucao4_Lambda.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\obj\Debug\netcoreapp3.1\Resolucao4_Lambda.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\obj\Debug\netcoreapp3.1\Resolucao4_Lambda.dll
+C:\Users\vitoria.mercado\Documents\Udemy\C#_COMPLETO_POO+Projetos\Secao17_Lambda_Delegates_LINQ\Parte1_Comparison\Resolucao4_Lambda\Resolucao4_Lambda\obj\Debug\netcoreapp3.1\Resolucao4_Lambda.pdb

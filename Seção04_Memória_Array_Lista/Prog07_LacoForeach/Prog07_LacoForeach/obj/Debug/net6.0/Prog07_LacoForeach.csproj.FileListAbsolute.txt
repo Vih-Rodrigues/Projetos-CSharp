@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\bin\Debug\net6.0\Prog07_LacoForeach.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\bin\Debug\net6.0\Prog07_LacoForeach.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\bin\Debug\net6.0\Prog07_LacoForeach.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\bin\Debug\net6.0\Prog07_LacoForeach.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\bin\Debug\net6.0\ref\Prog07_LacoForeach.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\bin\Debug\net6.0\Prog07_LacoForeach.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\ref\Prog07_LacoForeach.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog07_LacoForeach\Prog07_LacoForeach\obj\Debug\net6.0\Prog07_LacoForeach.genruntimeconfig.cache

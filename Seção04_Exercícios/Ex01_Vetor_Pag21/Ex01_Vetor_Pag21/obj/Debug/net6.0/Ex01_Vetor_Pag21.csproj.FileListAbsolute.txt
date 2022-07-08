@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\bin\Debug\net6.0\Ex01_Vetor_Pag21.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\bin\Debug\net6.0\Ex01_Vetor_Pag21.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\bin\Debug\net6.0\Ex01_Vetor_Pag21.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\bin\Debug\net6.0\Ex01_Vetor_Pag21.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\bin\Debug\net6.0\ref\Ex01_Vetor_Pag21.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\bin\Debug\net6.0\Ex01_Vetor_Pag21.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\ref\Ex01_Vetor_Pag21.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Exercícios\Ex01_Vetor_Pag21\Ex01_Vetor_Pag21\obj\Debug\net6.0\Ex01_Vetor_Pag21.genruntimeconfig.cache

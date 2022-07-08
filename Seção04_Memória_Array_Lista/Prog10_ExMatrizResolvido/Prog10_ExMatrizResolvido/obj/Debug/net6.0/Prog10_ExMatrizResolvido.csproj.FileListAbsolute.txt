@@ -1,0 +1,15 @@
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\bin\Debug\net6.0\Prog10_ExMatrizResolvido.exe
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\bin\Debug\net6.0\Prog10_ExMatrizResolvido.deps.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\bin\Debug\net6.0\Prog10_ExMatrizResolvido.runtimeconfig.json
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\bin\Debug\net6.0\Prog10_ExMatrizResolvido.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\bin\Debug\net6.0\ref\Prog10_ExMatrizResolvido.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\bin\Debug\net6.0\Prog10_ExMatrizResolvido.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.csproj.AssemblyReference.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.AssemblyInfoInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.AssemblyInfo.cs
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\ref\Prog10_ExMatrizResolvido.dll
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.pdb
+C:\Users\vitoria.mercado\Documents\Cursos Udemy\C#_COMPLETO_POO+Projetos\Seção06_Memória_Array_Lista\Prog10_ExMatrizResolvido\Prog10_ExMatrizResolvido\obj\Debug\net6.0\Prog10_ExMatrizResolvido.genruntimeconfig.cache
