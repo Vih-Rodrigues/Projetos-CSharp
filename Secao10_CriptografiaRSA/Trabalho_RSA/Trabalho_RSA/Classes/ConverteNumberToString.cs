@@ -152,45 +152,45 @@ namespace Trabalho_RSA.Classes
                     vetorCaracteres[i] = '\'';
                 }
 
-                    else if (vetorTexto[i] == '(')
-                    {
-                        vetorInteiros[i] = 1241;
-                    }
+                else if (vetorNumericoParametro[i] == 1241)
+                {
+                    vetorCaracteres[i] = '(';
+                }
 
-                    else if (vetorTexto[i] == ')')
-                    {
-                        vetorInteiros[i] = 1242;
-                    }
+                else if (vetorNumericoParametro[i] == 1242)
+                {
+                    vetorCaracteres[i] = ')';
+                }
 
-                    else if (vetorTexto[i] == '*')
-                    {
-                        vetorInteiros[i] = 1243;
-                    }
+                else if (vetorNumericoParametro[i] == 1243)
+                {
+                    vetorCaracteres[i] = '*';
+                }
 
-                    else if (vetorTexto[i] == '+')
-                    {
-                        vetorInteiros[i] = 1244;
-                    }
+                else if (vetorNumericoParametro[i] == 1244)
+                {
+                    vetorCaracteres[i] = '+';
+                }
 
-                    else if (vetorTexto[i] == ',')
-                    {
-                        vetorInteiros[i] = 1245;
-                    }
+                else if (vetorNumericoParametro[i] == 1245)
+                {
+                    vetorCaracteres[i] = ',';
+                }
 
-                    else if (vetorTexto[i] == '-')
-                    {
-                        vetorInteiros[i] = 1246;
-                    }
+                else if (vetorNumericoParametro[i] == 1246)
+                {
+                    vetorCaracteres[i] = '-';
+                }
 
-                    else if (vetorTexto[i] == '.')
-                    {
-                        vetorInteiros[i] = 1247;
-                    }
+                else if (vetorNumericoParametro[i] == 1247)
+                {
+                    vetorCaracteres[i] = '.';
+                }
 
-                    else if (vetorTexto[i] == '/')
-                    {
-                        vetorInteiros[i] = 1248;
-                    }
+                else if (vetorNumericoParametro[i] == 1248)
+                {
+                    vetorCaracteres[i] = '/';
+                }
 
                     else if (vetorTexto[i] == '0')
                     {
@@ -582,10 +582,10 @@ namespace Trabalho_RSA.Classes
                         vetorInteiros[i] = 304;
                     }
                 
-                // Caso o número resultado não corresponda a um caractere da lista, o espaço será preenchido com zero
+                // Caso o número resultado não corresponda a um caractere da lista, o espaço será preenchido com 'ç'
                 else
                 {
-                    vetorCaracteres[i] = ' ';
+                    vetorCaracteres[i] = 'ç';
                 }
             }
 

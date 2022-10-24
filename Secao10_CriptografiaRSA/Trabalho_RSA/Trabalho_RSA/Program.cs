@@ -73,7 +73,7 @@ namespace Trabalho_RSA
                 case 2:
 
                     textoDescriptografado = Descriptografar.DescriptografarTexto(d, n, texto);
-                    Console.WriteLine("\n\nTexto criptografado abaixo:\n\n" + textoDescriptografado);
+                    Console.WriteLine("\n\nTexto descriptografado abaixo:\n\n" + textoDescriptografado);
 
                     break;
 

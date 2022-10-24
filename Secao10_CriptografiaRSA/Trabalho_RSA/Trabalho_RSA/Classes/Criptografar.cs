@@ -13,7 +13,6 @@ namespace Trabalho_RSA.Classes
             string textoCriptografado = "";
             int[] vetorInteiros = new int[textoParametro.Length];
             int[] vetorInteirosCriptografado = new int[textoParametro.Length];
-            char[] vetorCaracteresCriptografado;
 
             vetorInteiros = ConverteStringToNumber.RetornaNumeros(textoParametro);
 
@@ -24,7 +23,7 @@ namespace Trabalho_RSA.Classes
             }
 
             // Chama converte number to string
-            vetorCaracteresCriptografado = ConverteNumberToString.RetornaTexto(vetorInteirosCriptografado[]);
+            textoCriptografado = ConverteNumberToString.RetornaTexto(vetorInteirosCriptografado);
 
             return textoCriptografado;
         }
