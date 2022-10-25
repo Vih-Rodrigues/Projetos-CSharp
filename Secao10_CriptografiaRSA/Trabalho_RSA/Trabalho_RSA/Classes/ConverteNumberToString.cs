@@ -110,7 +110,7 @@ namespace Trabalho_RSA.Classes
             char[] vetorCaracteres = new char[vetorNumericoParametro.Length];
             string textoResultado = "";
 
-            for (int i = 0; i <= vetorNumericoParametro.Length; i++)
+            for (int i = 0; i < vetorNumericoParametro.Length; i++)
             {
                 if (vetorNumericoParametro[i] == 0)
                 {
@@ -192,395 +192,400 @@ namespace Trabalho_RSA.Classes
                     vetorCaracteres[i] = '/';
                 }
 
-                    else if (vetorTexto[i] == '0')
-                    {
-                        vetorInteiros[i] = 4321;
-                    }
-
-                    else if (vetorTexto[i] == '1')
-                    {
-                        vetorInteiros[i] = 4320;
-                    }
-
-                    else if (vetorTexto[i] == '2')
-                    {
-                        vetorInteiros[i] = 4319;
-                    }
-
-                    else if (vetorTexto[i] == '3')
-                    {
-                        vetorInteiros[i] = 4318;
-                    }
-
-                    else if (vetorTexto[i] == '4')
-                    {
-                        vetorInteiros[i] = 4317;
-                    }
-
-                    else if (vetorTexto[i] == '5')
-                    {
-                        vetorInteiros[i] = 4316;
-                    }
-
-                    else if (vetorTexto[i] == '6')
-                    {
-                        vetorInteiros[i] = 4315;
-                    }
-
-                    else if (vetorTexto[i] == '7')
-                    {
-                        vetorInteiros[i] = 4314;
-                    }
-
-                    else if (vetorTexto[i] == '8')
-                    {
-                        vetorInteiros[i] = 4313;
-                    }
-
-                    else if (vetorTexto[i] == '9')
-                    {
-                        vetorInteiros[i] = 4312;
-                    }
-
-                    else if (vetorTexto[i] == ':')
-                    {
-                        vetorInteiros[i] = 201;
-                    }
-
-                    else if (vetorTexto[i] == ';')
-                    {
-                        vetorInteiros[i] = 202;
-                    }
-
-                    else if (vetorTexto[i] == '<')
-                    {
-                        vetorInteiros[i] = 203;
-                    }
-
-                    else if (vetorTexto[i] == '=')
-                    {
-                        vetorInteiros[i] = 204;
-                    }
-
-                    else if (vetorTexto[i] == '>')
-                    {
-                        vetorInteiros[i] = 205;
-                    }
-
-                    else if (vetorTexto[i] == '?')
-                    {
-                        vetorInteiros[i] = 206;
-                    }
-
-                    else if (vetorTexto[i] == '@')
-                    {
-                        vetorInteiros[i] = 207;
-                    }
-
-                    else if (vetorTexto[i] == 'A')
-                    {
-                        vetorInteiros[i] = 9876;
-                    }
-
-                    else if (vetorTexto[i] == 'B')
-                    {
-                        vetorInteiros[i] = 9875;
-                    }
-
-                    else if (vetorTexto[i] == 'C')
-                    {
-                        vetorInteiros[i] = 9874;
-                    }
-
-                    else if (vetorTexto[i] == 'D')
-                    {
-                        vetorInteiros[i] = 9873;
-                    }
-
-                    else if (vetorTexto[i] == 'E')
-                    {
-                        vetorInteiros[i] = 9872;
-                    }
-
-                    else if (vetorTexto[i] == 'F')
-                    {
-                        vetorInteiros[i] = 9871;
-                    }
-
-                    else if (vetorTexto[i] == 'G')
-                    {
-                        vetorInteiros[i] = 9870;
-                    }
-
-                    else if (vetorTexto[i] == 'H')
-                    {
-                        vetorInteiros[i] = 9869;
-                    }
-
-                    else if (vetorTexto[i] == 'I')
-                    {
-                        vetorInteiros[i] = 9868;
-                    }
-
-                    else if (vetorTexto[i] == 'J')
-                    {
-                        vetorInteiros[i] = 9867;
-                    }
-
-                    else if (vetorTexto[i] == 'K')
-                    {
-                        vetorInteiros[i] = 9866;
-                    }
-
-                    else if (vetorTexto[i] == 'L')
-                    {
-                        vetorInteiros[i] = 9865;
-                    }
-
-                    else if (vetorTexto[i] == 'M')
-                    {
-                        vetorInteiros[i] = 9864;
-                    }
-
-                    else if (vetorTexto[i] == 'N')
-                    {
-                        vetorInteiros[i] = 9863;
-                    }
-
-                    else if (vetorTexto[i] == 'O')
-                    {
-                        vetorInteiros[i] = 9862;
-                    }
-
-                    else if (vetorTexto[i] == 'P')
-                    {
-                        vetorInteiros[i] = 9861;
-                    }
-
-                    else if (vetorTexto[i] == 'Q')
-                    {
-                        vetorInteiros[i] = 9860;
-                    }
-
-                    else if (vetorTexto[i] == 'R')
-                    {
-                        vetorInteiros[i] = 9859;
-                    }
-
-                    else if (vetorTexto[i] == 'S')
-                    {
-                        vetorInteiros[i] = 9858;
-                    }
-
-                    else if (vetorTexto[i] == 'T')
-                    {
-                        vetorInteiros[i] = 9857;
-                    }
-
-                    else if (vetorTexto[i] == 'U')
-                    {
-                        vetorInteiros[i] = 9856;
-                    }
-
-                    else if (vetorTexto[i] == 'V')
-                    {
-                        vetorInteiros[i] = 9855;
-                    }
-
-                    else if (vetorTexto[i] == 'W')
-                    {
-                        vetorInteiros[i] = 9854;
-                    }
-
-                    else if (vetorTexto[i] == 'X')
-                    {
-                        vetorInteiros[i] = 9853;
-                    }
-
-                    else if (vetorTexto[i] == 'Y')
-                    {
-                        vetorInteiros[i] = 9852;
-                    }
-
-                    else if (vetorTexto[i] == 'Z')
-                    {
-                        vetorInteiros[i] = 9851;
-                    }
-
-                    else if (vetorTexto[i] == '[')
-                    {
-                        vetorInteiros[i] = 101;
-                    }
-
-                    else if (vetorTexto[i] == '\')
-                    {
-                        vetorInteiros[i] = 102;
-                    }
-
-                    else if (vetorTexto[i] == ']')
-                    {
-                        vetorInteiros[i] = 103;
-                    }
-
-                    else if (vetorTexto[i] == '^')
-                    {
-                        vetorInteiros[i] = 104;
-                    }
-
-                    else if (vetorTexto[i] == '_')
-                    {
-                        vetorInteiros[i] = 105;
-                    }
-
-                    else if (vetorTexto[i] == 'a')
-                    {
-                        vetorInteiros[i] = 6789;
-                    }
-
-                    else if (vetorTexto[i] == 'b')
-                    {
-                        vetorInteiros[i] = 6788;
-                    }
-
-                    else if (vetorTexto[i] == 'c')
-                    {
-                        vetorInteiros[i] = 6787;
-                    }
-
-                    else if (vetorTexto[i] == 'd')
-                    {
-                        vetorInteiros[i] = 6786;
-                    }
-
-                    else if (vetorTexto[i] == 'e')
-                    {
-                        vetorInteiros[i] = 6785;
-                    }
-
-                    else if (vetorTexto[i] == 'f')
-                    {
-                        vetorInteiros[i] = 6784;
-                    }
-
-                    else if (vetorTexto[i] == 'g')
-                    {
-                        vetorInteiros[i] = 6783;
-                    }
-
-                    else if (vetorTexto[i] == 'h')
-                    {
-                        vetorInteiros[i] = 6782;
-                    }
-
-                    else if (vetorTexto[i] == 'i')
-                    {
-                        vetorInteiros[i] = 6781;
-                    }
-
-                    else if (vetorTexto[i] == 'j')
-                    {
-                        vetorInteiros[i] = 6780;
-                    }
-
-                    else if (vetorTexto[i] == 'k')
-                    {
-                        vetorInteiros[i] = 6779;
-                    }
-
-                    else if (vetorTexto[i] == 'l')
-                    {
-                        vetorInteiros[i] = 6778;
-                    }
-
-                    else if (vetorTexto[i] == 'm')
-                    {
-                        vetorInteiros[i] = 6777;
-                    }
-
-                    else if (vetorTexto[i] == 'n')
-                    {
-                        vetorInteiros[i] = 6776;
-                    }
-
-                    else if (vetorTexto[i] == 'o')
-                    {
-                        vetorInteiros[i] = 6775;
-                    }
-
-                    else if (vetorTexto[i] == 'p')
-                    {
-                        vetorInteiros[i] = 6774;
-                    }
-
-                    else if (vetorTexto[i] == 'q')
-                    {
-                        vetorInteiros[i] = 6773;
-                    }
-
-                    else if (vetorTexto[i] == 'r')
-                    {
-                        vetorInteiros[i] = 6772;
-                    }
-
-                    else if (vetorTexto[i] == 's')
-                    {
-                        vetorInteiros[i] = 6771;
-                    }
-
-                    else if (vetorTexto[i] == 't')
-                    {
-                        vetorInteiros[i] = 6770;
-                    }
-
-                    else if (vetorTexto[i] == 'u')
-                    {
-                        vetorInteiros[i] = 6769;
-                    }
-
-                    else if (vetorTexto[i] == 'v')
-                    {
-                        vetorInteiros[i] = 6768;
-                    }
-
-                    else if (vetorTexto[i] == 'w')
-                    {
-                        vetorInteiros[i] = 6767;
-                    }
-
-                    else if (vetorTexto[i] == 'x')
-                    {
-                        vetorInteiros[i] = 6766;
-                    }
-
-                    else if (vetorTexto[i] == 'y')
-                    {
-                        vetorInteiros[i] = 6765;
-                    }
-
-                    else if (vetorTexto[i] == 'z')
-                    {
-                        vetorInteiros[i] = 6764;
-                    }
-
-                    else if (vetorTexto[i] == '{')
-                    {
-                        vetorInteiros[i] = 301;
-                    }
-
-                    else if (vetorTexto[i] == '|')
-                    {
-                        vetorInteiros[i] = 302;
-                    }
-
-                    else if (vetorTexto[i] == '}')
-                    {
-                        vetorInteiros[i] = 303;
-                    }
-
-                    else if (vetorTexto[i] == '~')
-                    {
-                        vetorInteiros[i] = 304;
-                    }
+                else if (vetorNumericoParametro[i] == 4321)
+                {
+                    vetorCaracteres[i] = '0';
+                }
+
+                else if (vetorNumericoParametro[i] == 4320)
+                {
+                    vetorCaracteres[i] = '1';
+                }
+
+                else if (vetorNumericoParametro[i] == 4319)
+                {
+                    vetorCaracteres[i] = '2';
+                }
+
+                else if (vetorNumericoParametro[i] == 4318)
+                {
+                    vetorCaracteres[i] = '3';
+                }
+
+                else if (vetorNumericoParametro[i] == 4317)
+                {
+                    vetorCaracteres[i] = '4';
+                }
+
+                else if (vetorNumericoParametro[i] == 4316)
+                {
+                    vetorCaracteres[i] = '5';
+                }
+
+                else if (vetorNumericoParametro[i] == 4315)
+                {
+                    vetorCaracteres[i] = '6';
+                }
+
+                else if (vetorNumericoParametro[i] == 4314)
+                {
+                    vetorCaracteres[i] = '7';
+                }
+
+                else if (vetorNumericoParametro[i] == 4313)
+                {
+                    vetorCaracteres[i] = '8';
+                }
+
+                else if (vetorNumericoParametro[i] == 4312)
+                {
+                    vetorCaracteres[i] = '9';
+                }
+
+                else if (vetorNumericoParametro[i] == 201)
+                {
+                    vetorCaracteres[i] = ':';
+                }
+
+                else if (vetorNumericoParametro[i] == 202)
+                {
+                    vetorCaracteres[i] = ';';
+                }
+
+                else if (vetorNumericoParametro[i] == 203)
+                {
+                    vetorCaracteres[i] = '<';
+                }
+
+                else if (vetorNumericoParametro[i] == 204)
+                {
+                    vetorCaracteres[i] = '=';
+                }
+
+                else if (vetorNumericoParametro[i] == 205)
+                {
+                    vetorCaracteres[i] = '>';
+                }
+
+                else if (vetorNumericoParametro[i] == 206)
+                {
+                    vetorCaracteres[i] = '?';
+                }
+
+                else if (vetorNumericoParametro[i] == 207)
+                {
+                    vetorCaracteres[i] = '@';
+                }
+
+                else if (vetorNumericoParametro[i] == 9876)
+                {
+                    vetorCaracteres[i] = 'A';
+                }
+
+                else if (vetorNumericoParametro[i] == 9875)
+                {
+                    vetorCaracteres[i] = 'B';
+                }
+
+                else if (vetorNumericoParametro[i] == 9874)
+                {
+                    vetorCaracteres[i] = 'C';
+                }
+
+                else if (vetorNumericoParametro[i] == 9873)
+                {
+                    vetorCaracteres[i] = 'D';
+                }
+
+                else if (vetorNumericoParametro[i] == 9872)
+                {
+                    vetorCaracteres[i] = 'E';
+                }
+
+                else if (vetorNumericoParametro[i] == 9871)
+                {
+                    vetorCaracteres[i] = 'F';
+                }
+
+                else if (vetorNumericoParametro[i] == 9870)
+                {
+                    vetorCaracteres[i] = 'G';
+                }
+
+                else if (vetorNumericoParametro[i] == 9869)
+                {
+                    vetorCaracteres[i] = 'H';
+                }
+
+                else if (vetorNumericoParametro[i] == 9868)
+                {
+                    vetorCaracteres[i] = 'I';
+                }
+
+                else if (vetorNumericoParametro[i] == 9867)
+                {
+                    vetorCaracteres[i] = 'J';
+                }
+
+                else if (vetorNumericoParametro[i] == 9866)
+                {
+                    vetorCaracteres[i] = 'K';
+                }
+
+                else if (vetorNumericoParametro[i] == 9865)
+                {
+                    vetorCaracteres[i] = 'L';
+                }
+
+                else if (vetorNumericoParametro[i] == 9864)
+                {
+                    vetorCaracteres[i] = 'M';
+                }
+
+                else if (vetorNumericoParametro[i] == 9863)
+                {
+                    vetorCaracteres[i] = 'N';
+                }
+
+                else if (vetorNumericoParametro[i] == 9862)
+                {
+                    vetorCaracteres[i] = 'O';
+                }
+
+                else if (vetorNumericoParametro[i] == 9861)
+                {
+                    vetorCaracteres[i] = 'P';
+                }
+
+                else if (vetorNumericoParametro[i] == 9860)
+                {
+                    vetorCaracteres[i] = 'Q';
+                }
+
+                else if (vetorNumericoParametro[i] == 9859)
+                {
+                    vetorCaracteres[i] = 'R';
+                }
+
+                else if (vetorNumericoParametro[i] == 9858)
+                {
+                    vetorCaracteres[i] = 'S';
+                }
+
+                else if (vetorNumericoParametro[i] == 9857)
+                {
+                    vetorCaracteres[i] = 'T';
+                }
+
+                else if (vetorNumericoParametro[i] == 9856)
+                {
+                    vetorCaracteres[i] = 'U';
+                }
+
+                else if (vetorNumericoParametro[i] == 9855)
+                {
+                    vetorCaracteres[i] = 'V';
+                }
+
+                else if (vetorNumericoParametro[i] == 9854)
+                {
+                    vetorCaracteres[i] = 'W';
+                }
+
+                else if (vetorNumericoParametro[i] == 9853)
+                {
+                    vetorCaracteres[i] = 'X';
+                }
+
+                else if (vetorNumericoParametro[i] == 9852)
+                {
+                    vetorCaracteres[i] = 'Y';
+                }
+
+                else if (vetorNumericoParametro[i] == 9851)
+                {
+                    vetorCaracteres[i] = 'Z';
+                }
+
+                else if (vetorNumericoParametro[i] == 101)
+                {
+                    vetorCaracteres[i] = '[';
+                }
+
+                else if (vetorNumericoParametro[i] == 101)
+                {
+                    vetorCaracteres[i] = '[';
+                }
+
+                else if (vetorNumericoParametro[i] == 102)
+                {
+                    vetorCaracteres[i] = '\\';
+                }
+
+                else if (vetorNumericoParametro[i] == 103)
+                {
+                    vetorCaracteres[i] = ']';
+                }
+
+                else if (vetorNumericoParametro[i] == 104)
+                {
+                    vetorCaracteres[i] = '^';
+                }
+
+                else if (vetorNumericoParametro[i] == 105)
+                {
+                    vetorCaracteres[i] = '_';
+                }
+
+                else if (vetorNumericoParametro[i] == 6789)
+                {
+                    vetorCaracteres[i] = 'a';
+                }
+
+                else if (vetorNumericoParametro[i] == 6788)
+                {
+                    vetorCaracteres[i] = 'b';
+                }
+
+                else if (vetorNumericoParametro[i] == 6787)
+                {
+                    vetorCaracteres[i] = 'c';
+                }
+
+                else if (vetorNumericoParametro[i] == 6786)
+                {
+                    vetorCaracteres[i] = 'd';
+                }
+
+                else if (vetorNumericoParametro[i] == 6785)
+                {
+                    vetorCaracteres[i] = 'e';
+                }
+
+                else if (vetorNumericoParametro[i] == 6784)
+                {
+                    vetorCaracteres[i] = 'f';
+                }
+
+                else if (vetorNumericoParametro[i] == 6783)
+                {
+                    vetorCaracteres[i] = 'g';
+                }
+
+                else if (vetorNumericoParametro[i] == 6782)
+                {
+                    vetorCaracteres[i] = 'h';
+                }
+
+                else if (vetorNumericoParametro[i] == 6781)
+                {
+                    vetorCaracteres[i] = 'i';
+                }
+
+                else if (vetorNumericoParametro[i] == 6780)
+                {
+                    vetorCaracteres[i] = 'j';
+                }
+
+                else if (vetorNumericoParametro[i] == 6779)
+                {
+                    vetorCaracteres[i] = 'k';
+                }
+
+                else if (vetorNumericoParametro[i] == 6778)
+                {
+                    vetorCaracteres[i] = 'l';
+                }
+
+                else if (vetorNumericoParametro[i] == 6777)
+                {
+                    vetorCaracteres[i] = 'm';
+                }
+
+                else if (vetorNumericoParametro[i] == 6776)
+                {
+                    vetorCaracteres[i] = 'n';
+                }
+
+                else if (vetorNumericoParametro[i] == 6775)
+                {
+                    vetorCaracteres[i] = 'o';
+                }
+
+                else if (vetorNumericoParametro[i] == 6774)
+                {
+                    vetorCaracteres[i] = 'p';
+                }
+
+                else if (vetorNumericoParametro[i] == 6773)
+                {
+                    vetorCaracteres[i] = 'q';
+                }
+
+                else if (vetorNumericoParametro[i] == 6772)
+                {
+                    vetorCaracteres[i] = 'r';
+                }
+
+                else if (vetorNumericoParametro[i] == 6771)
+                {
+                    vetorCaracteres[i] = 's';
+                }
+
+                else if (vetorNumericoParametro[i] == 6770)
+                {
+                    vetorCaracteres[i] = 't';
+                }
+
+                else if (vetorNumericoParametro[i] == 6769)
+                {
+                    vetorCaracteres[i] = 'u';
+                }
+
+                else if (vetorNumericoParametro[i] == 6768)
+                {
+                    vetorCaracteres[i] = 'v';
+                }
+
+                else if (vetorNumericoParametro[i] == 6767)
+                {
+                    vetorCaracteres[i] = 'w';
+                }
+
+                else if (vetorNumericoParametro[i] == 6766)
+                {
+                    vetorCaracteres[i] = 'x';
+                }
+
+                else if (vetorNumericoParametro[i] == 6765)
+                {
+                    vetorCaracteres[i] = 'y';
+                }
+
+                else if (vetorNumericoParametro[i] == 6764)
+                {
+                    vetorCaracteres[i] = 'z';
+                }
+
+                else if (vetorNumericoParametro[i] == 301)
+                {
+                    vetorCaracteres[i] = '{';
+                }
+
+                else if (vetorNumericoParametro[i] == 302)
+                {
+                    vetorCaracteres[i] = '|';
+                }
+
+                else if (vetorNumericoParametro[i] == 303)
+                {
+                    vetorCaracteres[i] = '}';
+                }
+
+                else if (vetorNumericoParametro[i] == 304)
+                {
+                    vetorCaracteres[i] = '~';
+                }
                 
                 // Caso o número resultado não corresponda a um caractere da lista, o espaço será preenchido com 'ç'
                 else

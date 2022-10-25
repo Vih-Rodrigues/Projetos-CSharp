@@ -11,17 +11,17 @@ namespace Trabalho_RSA
             bool resultado = false;
             string texto, textoCriptografado, textoDescriptografado;
 
-            Console.WriteLine("Sistema de criptografia...\n100% carregado.\n\n\n\t\tBem vindo!\n\n\n");
+            Console.WriteLine("Sistema de criptografia...\n100% carregado.\n\n\n\t\tBem vindo!\n\n");
             Console.ReadLine(); // Pausa dramática
 
             Console.Clear();
 
             Console.WriteLine("Para começar, informe dois números primos, um para ser o P e o outro o Q.\nOBS: Quanto maior o número escolhido mais seguro será o algoritmo!\n\n");
 
-            Console.WriteLine("P: ");
+            Console.Write("P: ");
             p = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Q: ");
+            Console.Write("\nQ: ");
             q = int.Parse(Console.ReadLine());
 
             n = (p * q);
@@ -30,11 +30,11 @@ namespace Trabalho_RSA
 
             Console.WriteLine("\nN = " + n + "\nZ = " + z);
 
-            Console.WriteLine("Agora, informe o D, o qual deve ser primo em relação a Z (" + z + ").\nD: ");
-            d = int.Parse(Console.ReadLine());
+            Console.Write("\n\nAgora, informe o E, o qual deve ser primo em relação a Z (" + z + ").\nE: ");
+            e = int.Parse(Console.ReadLine());
 
-            // Encontra o E
-            e = 0;
+            // Encontra o D
+            d = 0;
             while (resultado != true)
             {
                 float auxiliar;
@@ -49,38 +49,38 @@ namespace Trabalho_RSA
                 else
                 {
                     resultado = false;
-                    e++;
+                    d++;
                 }
             }
 
-            // Menu opção cripto ou descripto
-            Console.WriteLine("\n\n-------- Menu --------");
-            Console.WriteLine("[1] - Criptografar texto\n[2] - Descriptografar texto\n> ");
-            opcaoMenu = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nD = " + d + "\n\n");
 
-            Console.WriteLine("\nDigite o texto.\n\n: ");
-            texto = Console.ReadLine();
-
-            switch(opcaoMenu)
+            do
             {
-                case 1:
+                // Menu opção cripto ou descripto
+                Console.WriteLine("\n\n-------- Menu --------");
+                Console.Write("[1] - Criptografar texto\n[2] - Descriptografar texto\n[3] - Sair\n\n> ");
+                opcaoMenu = int.Parse(Console.ReadLine());
 
+                if (opcaoMenu == 1)
+                {
+                    Console.Write("\n\nDigite o texto.\n\n: ");
+                    texto = Console.ReadLine();
                     textoCriptografado = Criptografar.CriptografarTexto(e, n, texto);
                     Console.WriteLine("\n\nTexto criptografado abaixo:\n\n" + textoCriptografado);
+                    Console.ReadLine(); // Pausa
+                }
 
-                    break;
-
-                case 2:
-
+                else if (opcaoMenu == 2)
+                {
+                    Console.Write("\n\nDigite o texto.\n\n: ");
+                    texto = Console.ReadLine();
                     textoDescriptografado = Descriptografar.DescriptografarTexto(d, n, texto);
                     Console.WriteLine("\n\nTexto descriptografado abaixo:\n\n" + textoDescriptografado);
+                    Console.ReadLine(); // Pausa
+                }
 
-                    break;
-
-                default:
-                    Console.WriteLine("Opção inválida. Tente novamente.");
-                    break;
-            }
+            } while (opcaoMenu != 3);
 
         }
     }

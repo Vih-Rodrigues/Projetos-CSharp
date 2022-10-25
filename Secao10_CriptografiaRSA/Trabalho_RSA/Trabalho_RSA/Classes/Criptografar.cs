@@ -17,9 +17,10 @@ namespace Trabalho_RSA.Classes
             vetorInteiros = ConverteStringToNumber.RetornaNumeros(textoParametro);
 
             // Cálculo
-            for (int i = 0; i <= textoParametro.Length; i++)
+            for (int i = 0; i < textoParametro.Length; i++)
             {
-                vetorInteirosCriptografado[i] = (Convert.ToInt32(Math.Pow(vetorInteiros[i], e)) % n);
+                //vetorInteirosCriptografado[i] = (Convert.ToInt32(Math.Pow(vetorInteiros[i], e)) % n);
+                vetorInteirosCriptografado[i] = Convert.ToInt32(Math.Round((Math.Pow(vetorInteiros[i], e)) % n));
             }
 
             // Chama converte number to string

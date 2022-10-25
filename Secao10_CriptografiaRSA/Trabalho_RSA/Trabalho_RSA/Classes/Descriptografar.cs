@@ -18,7 +18,7 @@ namespace Trabalho_RSA.Classes
             vetorInteirosDescriptografado = ConverteStringToNumber.RetornaNumeros(textoParametro);
 
             // Cálculo
-            for (int i = 0; i <= textoParametro.Length; i++)
+            for (int i = 0; i < textoParametro.Length; i++)
             {
                 vetorInteirosDescriptografado[i] = (Convert.ToInt32(Math.Pow(vetorInteirosCriptografado[i], d)) % n);
             }

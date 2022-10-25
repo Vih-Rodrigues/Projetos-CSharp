@@ -113,7 +113,7 @@ namespace Trabalho_RSA.Classes
             // Vetor inteiro para guardar os números que serão passados para string
             int[] vetorInteiros = new int[textoParametro.Length];
 
-            for (int i = 0; i <= textoParametro.Length; i++)
+            for (int i = 0; i < textoParametro.Length; i++)
             {
                 if (vetorTexto[i] == ' ')
                 {
@@ -415,7 +415,7 @@ namespace Trabalho_RSA.Classes
                     vetorInteiros[i] = 101;
                 }
 
-                else if (vetorTexto[i] == '\')
+                else if (vetorTexto[i] == '\\')
                 {
                     vetorInteiros[i] = 102;
                 }
@@ -584,9 +584,14 @@ namespace Trabalho_RSA.Classes
                 {
                     vetorInteiros[i] = 304;
                 }
+
+                else
+                {
+                    vetorInteiros[i] = 6766;
+                }
             }
             
-            return vetorInteiros[];
+            return vetorInteiros;
         }
     }
 }
