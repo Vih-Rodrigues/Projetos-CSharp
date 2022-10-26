@@ -30,18 +30,88 @@ namespace Trabalho_RSA
 
             Console.WriteLine("\nN = " + n + "\nZ = " + z);
 
-            Console.Write("\n\nAgora, informe o E, o qual deve ser primo em relação a Z (" + z + ").\nE: ");
-            e = int.Parse(Console.ReadLine());
+            // Encontra o E - primo em relação a Z
+            e = 2;
+            bool EprimoZ = false;
+            int qtde_divisores = 1; // O 1 já está incluso
+            int contador = 0; // Passará por todos os inteiros até o z para cada primo
+            bool achouPrimo = false; // booleano para sinalizar cada primo encontrado
+            bool NaoExisteEprimoZ = false;
+            while (EprimoZ != true && NaoExisteEprimoZ != true)
+            {
+                while (e <= z && achouPrimo != true)
+                {
+                    Console.WriteLine("\n\nContagem em: " + e + "\n");
+
+                    if (qtde_divisores <= 2 && contador <= z)
+                    {
+                        contador++;
+                        if (e % contador == 0)
+                        {
+                            qtde_divisores++;
+                        }
+
+                        else if (contador == z && qtde_divisores == 2)
+                        {
+                            achouPrimo = true;
+                        }
+
+                        achouPrimo = false;
+                    }
+
+                    else
+                    {
+                        e++;
+                        qtde_divisores = 1;
+                        contador = 0;
+                        achouPrimo = false;
+                    }
+                }
+
+                if (achouPrimo == true)
+                {
+                    // Verifica se E é primo em relação a Z
+                    if (Math.Round((double)z % e) == 1) // resultado da divisão = 1,5 -> aproxima para 2 | 1.4 -> aproxima para 1
+                    {
+                        EprimoZ = true;
+                    }
+
+                    else
+                    {
+                        EprimoZ = false;
+                        e++;
+                        qtde_divisores = 1;
+                        contador = 0;
+                        achouPrimo = false;
+                    }
+                }
+
+                else
+                {
+                    NaoExisteEprimoZ = true;
+                }
+            }
+
+            // Apresenta E
+            if (NaoExisteEprimoZ == true)
+            {
+                Console.WriteLine("\nNão existe um número primo E em relação a Z.");
+            }
+
+            else
+            {
+                Console.WriteLine("\nE = " + e + "\n\n");
+            }
 
             // Encontra o D
             d = 0;
             while (resultado != true)
             {
-                float auxiliar;
+                float auxiliarCalcCripto;
 
-                auxiliar = ((e * d) % z);
+                auxiliarCalcCripto = ((e * d) % z);
 
-                if (Math.Round(auxiliar) == 1)
+                if (Math.Round(auxiliarCalcCripto) == 1)
                 {
                     resultado = true;
                 }
