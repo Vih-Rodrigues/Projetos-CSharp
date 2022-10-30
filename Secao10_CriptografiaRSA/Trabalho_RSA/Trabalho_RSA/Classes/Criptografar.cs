@@ -19,7 +19,6 @@ namespace Trabalho_RSA.Classes
             // Cálculo
             for (int i = 0; i < textoParametro.Length; i++)
             {
-                //vetorInteirosCriptografado[i] = (Convert.ToInt32(Math.Pow(vetorInteiros[i], e)) % n);
                 vetorInteirosCriptografado[i] = Convert.ToInt32(Math.Round((Math.Pow(vetorInteiros[i], e)) % n));
             }
 

@@ -21,7 +21,7 @@ namespace Trabalho_RSA
             Console.Write("P: ");
             p = int.Parse(Console.ReadLine());
 
-            Console.Write("\nQ: ");
+            Console.Write("Q: ");
             q = int.Parse(Console.ReadLine());
 
             n = (p * q);
@@ -31,77 +31,93 @@ namespace Trabalho_RSA
             Console.WriteLine("\nN = " + n + "\nZ = " + z);
 
             // Encontra o E - primo em relação a Z
-            e = 2;
-            bool EprimoZ = false;
-            int qtde_divisores = 1; // O 1 já está incluso
-            int contador = 0; // Passará por todos os inteiros até o z para cada primo
-            bool achouPrimo = false; // booleano para sinalizar cada primo encontrado
-            bool NaoExisteEprimoZ = false;
-            while (EprimoZ != true && NaoExisteEprimoZ != true)
+            // um número é primo em relação a outro quando o único divisor em comun deles é o *1*
+
+            // Conta quantos divisores Z tem
+            int divisoresContador = 0;
+          
+            for (int i = 1; i <= z; i++)
             {
-                while (e <= z && achouPrimo != true)
+                if (z % i == 0)
                 {
-                    Console.WriteLine("\n\nContagem em: " + e + "\n");
+                    divisoresContador++;
+                }
+            }
 
-                    if (qtde_divisores <= 2 && contador <= z)
+            // Grava os divisores de Z em um vetor
+            int[] divisoresZ = new int[divisoresContador];
+            int contador = 0;
+            
+            for (int i = 1; i <= z; i++)
+            {
+                if (z % i == 0)
+                {
+                    divisoresZ[contador] = i;
+                    contador++;
+                }
+            }
+
+            // busca o primeiro número que seja primo em relação a Z
+            bool achouPrimo = false;
+            int numeroAtual = 1;
+            
+            while (achouPrimo != true)
+            {
+                // ----- 1º Parte -----
+                // Encontra quantos divisores o Numero Atual tem
+                numeroAtual++;
+                int qtdeDivisoresNumeroAtual = 0;
+
+                for (int i = 1; i <= z; i++)
+                {
+                    if (numeroAtual % i == 0)
                     {
-                        contador++;
-                        if (e % contador == 0)
-                        {
-                            qtde_divisores++;
-                        }
-
-                        else if (contador == z && qtde_divisores == 2)
-                        {
-                            achouPrimo = true;
-                        }
-
-                        achouPrimo = false;
-                    }
-
-                    else
-                    {
-                        e++;
-                        qtde_divisores = 1;
-                        contador = 0;
-                        achouPrimo = false;
+                        qtdeDivisoresNumeroAtual++;
                     }
                 }
 
-                if (achouPrimo == true)
-                {
-                    // Verifica se E é primo em relação a Z
-                    if (Math.Round((double)z % e) == 1) // resultado da divisão = 1,5 -> aproxima para 2 | 1.4 -> aproxima para 1
-                    {
-                        EprimoZ = true;
-                    }
+                // Grava os divisores do Numero Atual em um vetor
+                int[] divisoresNumeroAtual = new int[qtdeDivisoresNumeroAtual];
+                contador = 0;
 
-                    else
+                for (int i = 1; i <= z; i++)
+                {
+                    if (numeroAtual % i == 0)
                     {
-                        EprimoZ = false;
-                        e++;
-                        qtde_divisores = 1;
-                        contador = 0;
-                        achouPrimo = false;
+                        divisoresNumeroAtual[contador] = i;
+                        contador++;
                     }
+                }
+
+                // ----- 2º Parte -----
+                // Compara divisores de Z e Numero Atual, desconsiderando o 1
+                bool divisorAMais = false;
+
+                for (int i = 1; i < divisoresZ.Length; i++) // vetor Divisores Numero Atual
+                {
+                    for (int j = 1; j < divisoresNumeroAtual.Length; j++) // vetor Divisores Z
+                    {
+                        if (divisoresZ[i] == divisoresNumeroAtual[j])
+                        {
+                            divisorAMais = true;
+                        }
+                    }
+                }
+
+                // Verifica se Z e Numero Atual tem algum divisor em comum além de 1
+                if(divisorAMais == true)
+                {
+                    achouPrimo = false;
                 }
 
                 else
                 {
-                    NaoExisteEprimoZ = true;
+                    achouPrimo = true;
                 }
             }
 
-            // Apresenta E
-            if (NaoExisteEprimoZ == true)
-            {
-                Console.WriteLine("\nNão existe um número primo E em relação a Z.");
-            }
-
-            else
-            {
-                Console.WriteLine("\nE = " + e + "\n\n");
-            }
+            e = numeroAtual;
+            Console.WriteLine("\nE = " + e);
 
             // Encontra o D
             d = 0;
