@@ -22,6 +22,9 @@ namespace Trabalho_RSA.Classes
                 vetorInteirosCriptografado[i] = Convert.ToInt32(Math.Round((Math.Pow(vetorInteiros[i], e)) % n));
             }
 
+            // Guarda o vetor numérico criptografado
+            Program.auxiliar_ = vetorInteirosCriptografado;
+
             // Chama converte number to string
             textoCriptografado = ConverteNumberToString.RetornaTexto(vetorInteirosCriptografado);
 

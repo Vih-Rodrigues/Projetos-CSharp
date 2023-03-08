@@ -5,6 +5,7 @@ namespace Trabalho_RSA
 {
     class Program
     {
+        public static int[] auxiliar_;
         static void Main(string[] args)
         {
             int p, q, n, z, d, e, opcaoMenu;
@@ -141,6 +142,9 @@ namespace Trabalho_RSA
 
             Console.WriteLine("\nD = " + d + "\n\n");
 
+            // Inicializando a variável antes de entrar no laço
+            textoCriptografado = "";
+
             do
             {
                 // Menu opção cripto ou descripto
@@ -152,7 +156,10 @@ namespace Trabalho_RSA
                 {
                     Console.Write("\n\nDigite o texto.\n\n: ");
                     texto = Console.ReadLine();
+                    
+                    // recebe vetor com os números
                     textoCriptografado = Criptografar.CriptografarTexto(e, n, texto);
+
                     Console.WriteLine("\n\nTexto criptografado abaixo:\n\n" + textoCriptografado);
                     Console.ReadLine(); // Pausa
                 }
@@ -161,7 +168,14 @@ namespace Trabalho_RSA
                 {
                     Console.Write("\n\nDigite o texto.\n\n: ");
                     texto = Console.ReadLine();
-                    textoDescriptografado = Descriptografar.DescriptografarTexto(d, n, texto);
+                    bool textoJaCriptografado = false;
+                    
+                    if(texto == textoCriptografado)
+                    {
+                        textoJaCriptografado = true;
+                    }
+
+                    textoDescriptografado = Descriptografar.DescriptografarTexto(d, n, texto, textoJaCriptografado);
                     Console.WriteLine("\n\nTexto descriptografado abaixo:\n\n" + textoDescriptografado);
                     Console.ReadLine(); // Pausa
                 }
